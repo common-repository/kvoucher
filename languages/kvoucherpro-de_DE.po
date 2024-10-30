@@ -1,0 +1,528 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: federsammler-1.0\n"
+"POT-Creation-Date: 2021-07-30 15:27+0200\n"
+"PO-Revision-Date: 2021-07-30 15:28+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class/KV_Customers.php:28 class/KV_Customers.php:47
+#: class/KV_Customers_List.php:23
+msgid "Customers"
+msgstr "Kunden"
+
+#: class/KV_Customers.php:63
+msgid "search"
+msgstr "suchen"
+
+#: class/KV_Customers.php:74
+msgid "Awesome Premium Features"
+msgstr "Verfügbar in KVoucher Premium"
+
+#: class/KV_Customers.php:76
+msgid "Upgrade Now!"
+msgstr "Upgrade Jetzt!"
+
+#: class/KV_Customers_List.php:22
+msgid "Customer"
+msgstr "Kunde"
+
+#: class/KV_Customers_List.php:177
+msgid "No customers avaliable."
+msgstr "Keine Kunden verfügbar."
+
+#: class/KV_Customers_List.php:236
+msgid "show"
+msgstr "anzeigen"
+
+#: class/KV_Customers_List.php:237
+msgid "cancel"
+msgstr "stornieren"
+
+#: class/KV_Customers_List.php:247 class/KV_Customers_List.php:444
+msgid "open"
+msgstr "offen"
+
+#: class/KV_Customers_List.php:250 class/KV_Customers_List.php:445
+msgid "redeemed"
+msgstr "eingelöst"
+
+#: class/KV_Customers_List.php:254 class/KV_Customers_List.php:446
+msgid "canceled"
+msgstr "storniert"
+
+#: class/KV_Customers_List.php:290
+msgid "Coupon"
+msgstr "Gutschein"
+
+#: class/KV_Customers_List.php:293
+msgid "Bill"
+msgstr "Rechnung"
+
+#: class/KV_Customers_List.php:309
+msgid "ID"
+msgstr "ID"
+
+#: class/KV_Customers_List.php:310 class/KV_Customers_List.php:555
+#: class/KV_FrontStuff.php:159 class/KV_FrontStuff.php:198
+#: class/KV_FrontStuff.php:319
+msgid "Value"
+msgstr "Wert"
+
+#: class/KV_Customers_List.php:311 class/KV_Customers_List.php:537
+#: class/KV_Customers_List.php:559 class/KV_Customers_List.php:587
+msgid "Title"
+msgstr "Titel"
+
+#: class/KV_Customers_List.php:312 class/KV_Customers_List.php:541
+#: class/KV_Customers_List.php:563 class/KV_Customers_List.php:591
+#: class/KV_FrontStuff.php:237 class/KV_FrontStuff.php:268
+#: class/KV_FrontStuff.php:315 class/KV_FrontStuff.php:329
+#: class/KV_FrontStuff.php:417 kvoucher.php:323 php/ScCompanySettings.php:16
+msgid "Last Name"
+msgstr "Nachname"
+
+#: class/KV_Customers_List.php:313 class/KV_Customers_List.php:565
+#: class/KV_Customers_List.php:593 class/KV_FrontStuff.php:331
+#: class/KV_FrontStuff.php:353
+msgid "Street"
+msgstr "Straße"
+
+#: class/KV_Customers_List.php:314 class/KV_Customers_List.php:567
+#: class/KV_Customers_List.php:595 class/KV_FrontStuff.php:243
+#: class/KV_FrontStuff.php:274 class/KV_FrontStuff.php:333
+#: class/KV_FrontStuff.php:355 kvoucher.php:326 php/ScCompanySettings.php:22
+msgid "City"
+msgstr "Stadt"
+
+#: class/KV_Customers_List.php:315 class/KV_Customers_List.php:557
+#: class/KV_FrontStuff.php:343 class/KV_FrontStuff.php:359
+#: class/KV_FrontStuff.php:437 class/KV_FrontStuff.php:441
+#: class/KV_FrontStuff.php:455 class/KV_FrontStuff.php:471
+#: php/ScCompanySettings.php:38
+msgid "Shipping"
+msgstr "Versand"
+
+#: class/KV_Customers_List.php:316
+msgid "Date"
+msgstr "Datum"
+
+#: class/KV_Customers_List.php:317
+msgid "Status"
+msgstr "Status"
+
+#: class/KV_Customers_List.php:318
+msgid "Documents"
+msgstr "Dokumente"
+
+#: class/KV_Customers_List.php:443
+msgid "all"
+msgstr "alle"
+
+#: class/KV_Customers_List.php:513
+msgid "The voucher has not yet been redeemed"
+msgstr "Der Guschein wurde noch nicht eingelöst"
+
+#: class/KV_Customers_List.php:515
+msgid "The voucher is redeemed"
+msgstr "Der Gutschein ist einglöst"
+
+#: class/KV_Customers_List.php:517
+msgid "The voucher has been canceled"
+msgstr "der Gutschein wurde storniert"
+
+#: class/KV_Customers_List.php:519
+msgid "Redeem voucher"
+msgstr "Gutschein einlösen"
+
+#: class/KV_Customers_List.php:519
+msgid "'Are you sure you want to redeem the voucher?'"
+msgstr "'Sind sie sicher das sie die Gutschein einlösen möchten?'"
+
+#: class/KV_Customers_List.php:521
+msgid "Cancel voucher"
+msgstr "Gutschein stornieren"
+
+#: class/KV_Customers_List.php:521
+msgid "'Are you sure you want to cancel the voucher?'"
+msgstr "'Sind sie sicher das sie den Gutschein stonieren möchten?'"
+
+#: class/KV_Customers_List.php:523
+msgid "Mark the voucher as OPEN again"
+msgstr "Gutschein wieder als OFFEN markieren"
+
+#: class/KV_Customers_List.php:523
+msgid "'Are you sure you want to mark the voucher as OPEN again?'"
+msgstr ""
+"'Sind sie sicher das sie den Gutschein wieder als offen markieren möchten?'"
+
+#: class/KV_Customers_List.php:527
+msgid "Voucher recipient"
+msgstr "Gutscheinempfänger"
+
+#: class/KV_Customers_List.php:535
+msgid "Issued on"
+msgstr "Ausgestellt am"
+
+#: class/KV_Customers_List.php:539 class/KV_FrontStuff.php:349
+msgid "First name"
+msgstr "Vorname"
+
+#: class/KV_Customers_List.php:543 class/KV_FrontStuff.php:317
+#: class/KV_FrontStuff.php:419
+msgid "Occasion"
+msgstr "Anlass"
+
+#: class/KV_Customers_List.php:549 class/KV_FrontStuff.php:223
+msgid "Billing address"
+msgstr "Rechnungsadresse"
+
+#: class/KV_Customers_List.php:561 class/KV_Customers_List.php:589
+#: class/KV_FrontStuff.php:235 class/KV_FrontStuff.php:266
+#: class/KV_FrontStuff.php:313 class/KV_FrontStuff.php:327
+#: class/KV_FrontStuff.php:415 kvoucher.php:322 php/ScCompanySettings.php:14
+msgid "First Name"
+msgstr "Vorname"
+
+#: class/KV_Customers_List.php:569 class/KV_Customers_List.php:597
+#: class/KV_FrontStuff.php:245 class/KV_FrontStuff.php:276
+#: class/KV_FrontStuff.php:335 class/KV_FrontStuff.php:357 kvoucher.php:327
+#: php/ScCompanySettings.php:24
+msgid "Country"
+msgstr "Land"
+
+#: class/KV_Customers_List.php:573 class/KV_FrontStuff.php:247
+#: class/KV_FrontStuff.php:335
+msgid "Phone"
+msgstr "Telefon"
+
+#: class/KV_Customers_List.php:581 class/KV_FrontStuff.php:260
+msgid "Differing Shipping Address"
+msgstr "Abweichende Versandadresse"
+
+#: class/KV_FrontStuff.php:39
+msgid "Specify a different delivery address"
+msgstr "Abweichende Lieferadresse"
+
+#: class/KV_FrontStuff.php:225
+msgid "Privat"
+msgstr "Privat"
+
+#: class/KV_FrontStuff.php:227 class/KV_FrontStuff.php:233
+#: class/KV_FrontStuff.php:325 php/ScCompanySettings.php:12
+msgid "Company"
+msgstr "Firma"
+
+#: class/KV_FrontStuff.php:229 class/KV_FrontStuff.php:262
+#: class/KV_FrontStuff.php:411
+msgid "Mr"
+msgstr "Herr"
+
+#: class/KV_FrontStuff.php:231 class/KV_FrontStuff.php:264
+#: class/KV_FrontStuff.php:413
+msgid "Mrs"
+msgstr "Frau"
+
+#: class/KV_FrontStuff.php:239 class/KV_FrontStuff.php:270
+msgid "Street + No."
+msgstr "Straße + Nr"
+
+#: class/KV_FrontStuff.php:241 class/KV_FrontStuff.php:272 kvoucher.php:325
+#: php/ScCompanySettings.php:20
+msgid "Postal-Code"
+msgstr "Postleitzahl"
+
+#: class/KV_FrontStuff.php:249 class/KV_FrontStuff.php:278
+#: class/KV_FrontStuff.php:337 class/KV_FrontStuff.php:359
+msgid "E-mail"
+msgstr "E-mail"
+
+#: class/KV_FrontStuff.php:309 class/KV_FrontStuff.php:407
+msgid "Voucher for"
+msgstr "Gutschein für"
+
+#: class/KV_FrontStuff.php:311 class/KV_FrontStuff.php:409
+msgid "Dates appear on the voucher"
+msgstr "Daten erscheinen auf dem Gutschein"
+
+#: class/KV_FrontStuff.php:323
+msgid "Billing Adress"
+msgstr "Rechnungsadresse"
+
+#: class/KV_FrontStuff.php:339
+msgid "Shipping costs"
+msgstr "Versandkosten"
+
+#: class/KV_FrontStuff.php:341
+msgid "Total"
+msgstr "Summe"
+
+#: class/KV_FrontStuff.php:347
+msgid "Shipping Adress"
+msgstr "Lieferadresse"
+
+#: class/KV_FrontStuff.php:351
+msgid "Last name"
+msgstr "Nachname"
+
+#: class/KV_FrontStuff.php:377
+msgid "Please confirm our"
+msgstr "Bitte bestätigen sie unsere"
+
+#: class/KV_FrontStuff.php:377
+msgid "terms and conditions"
+msgstr "AGB's"
+
+#: class/KV_FrontStuff.php:384
+msgid "close"
+msgstr "schliesen"
+
+#: class/KV_FrontStuff.php:393
+msgid "Thank you for shopping at"
+msgstr "Vielen dank für den Einkauf bei"
+
+#: class/KV_FrontStuff.php:397
+msgid "Back to selection"
+msgstr "Zurück zur Auswahl"
+
+#: class/KV_FrontStuff.php:441
+msgid "via Post"
+msgstr "per Post"
+
+#: class/KV_FrontStuff.php:445
+msgid "via E-mail (PDF)"
+msgstr "per E-mail (PDF)"
+
+#: class/KV_FrontStuff.php:457
+msgid "The dispatch takes place via E-mail (PDF)"
+msgstr "Der Versand efolgt per E-mail(PDF)"
+
+#: class/KV_FrontStuff.php:473
+msgid "The dispatch takes place by Post"
+msgstr "Der Versand erfolgt per Post"
+
+#: class/KV_FrontStuff.php:618
+msgid ""
+"Please enable javascript in your browser. Otherwise it is not possible to "
+"buy a voucher."
+msgstr ""
+"Bitte aktivieren Sie JavaScript in ihrem Browser. Der kauf eines Gutscheins "
+"ist sonst nicht möglich."
+
+#: class/KV_FrontStuff.php:638 class/KV_FrontStuff.php:681
+msgid "Next"
+msgstr "Weiter"
+
+#: class/KV_FrontStuff.php:679 class/KV_FrontStuff.php:708
+msgid "Back"
+msgstr "Zurück"
+
+#: class/KV_FrontStuff.php:721
+msgid ""
+"Unfortunately, our online voucher service is currently not available. Please "
+"accept our apologies"
+msgstr ""
+"Leider ist unser Online- Gutscheindienst momentan nicht verfügbar. Wir "
+"bitten vielmals um Entschuldigung"
+
+#: kvoucher.php:321
+msgid "Company name"
+msgstr "Firma"
+
+#: kvoucher.php:324
+msgid "Streetname"
+msgstr "Straße"
+
+#: kvoucher.php:328 php/ScCompanySettings.php:28
+msgid "Phonenumber"
+msgstr "Telefon"
+
+#: kvoucher.php:329 php/ScCompanySettings.php:30
+msgid "Company Domain"
+msgstr "Firmen Domain"
+
+#: kvoucher.php:330 php/ScCompanySettings.php:32
+msgid "Company E-mail"
+msgstr "Firmen E-mail"
+
+#: kvoucher.php:337 kvoucher.php:375
+msgid "is required!"
+msgstr "ist erforderlich!"
+
+#: kvoucher.php:356
+msgid "The creation of the general terms and conditions is recommended!"
+msgstr "Die Erstellung der Allgemeinen Geschäftsbedingungen wird empfohlen!"
+
+#: kvoucher.php:393
+msgid "KVoucher Options"
+msgstr "KVoucher Einstellungen"
+
+#: kvoucher.php:407
+msgid "Company Settings"
+msgstr "Firmen-Einstellungen"
+
+#: kvoucher.php:410
+msgid "PayPal Settings"
+msgstr "PayPal Einstellungen"
+
+#: kvoucher.php:413 php/ScTermsOfServiceSettings.php:14
+msgid "Terms of Service"
+msgstr "Nutzungsbedingungen"
+
+#: kvoucher.php:416
+msgid "Style Settings"
+msgstr "Stil Einstellungen"
+
+#: kvoucher.php:419 kvoucher.php:420
+msgid "Handbook"
+msgstr "Handbuch"
+
+#: php/ScCompanySettings.php:10
+msgid "Company Options"
+msgstr "Firmenoptionen"
+
+#: php/ScCompanySettings.php:18
+msgid "No. /Streetname"
+msgstr "Straße /Nr."
+
+#: php/ScCompanySettings.php:26
+msgid "Tax number"
+msgstr "Steuernummer"
+
+#: php/ScCompanySettings.php:34
+msgid "Validity"
+msgstr "Gültigkeit"
+
+#: php/ScCompanySettings.php:36
+msgid "Currency"
+msgstr "Währung"
+
+#: php/ScCompanySettings.php:40
+msgid "Shipping costs by post"
+msgstr "Versandkosten"
+
+#: php/ScCompanySettings.php:42
+msgid "Value added tax in percent"
+msgstr "UmSt."
+
+#: php/ScCompanySettings.php:57
+msgid "Register your company data."
+msgstr "Registrieren Sie Ihre Unternehmensdaten."
+
+#: php/ScCompanySettings.php:73 php/ScCompanySettings.php:107
+#: php/ScCompanySettings.php:123 php/ScCompanySettings.php:139
+#: php/ScCompanySettings.php:157 php/ScCompanySettings.php:174
+#: php/ScCompanySettings.php:190 php/ScCompanySettings.php:221
+#: php/ScCompanySettings.php:237 php/ScCompanySettings.php:253
+#: php/ScPayPalSettings.php:32
+#, fuzzy
+#| msgid "required"
+msgid "required !"
+msgstr "erforderlich"
+
+#: php/ScCompanySettings.php:197
+msgid "your country"
+msgstr "dein Land"
+
+#: php/ScCompanySettings.php:328
+msgid "Year(s)"
+msgstr "Jahr(e)"
+
+#: php/ScPayPalSettings.php:11
+msgid "PayPal Options"
+msgstr "PayPal-Optionen"
+
+#: php/ScPayPalSettings.php:16
+msgid "PayPal Client-ID"
+msgstr "PayPal Client-ID"
+
+#: php/ScPayPalSettings.php:25
+msgid "Provide your PayPal Client-ID"
+msgstr "Geben Sie Ihre PayPal-Client-ID an"
+
+#: php/ScStyleSettings.php:10
+msgid "Style Options"
+msgstr "Stil-Optionen"
+
+#: php/ScStyleSettings.php:15
+msgid "Previews"
+msgstr "Vorschau"
+
+#: php/ScStyleSettings.php:17
+msgid "Font-Color"
+msgstr "Schrift-Farbe"
+
+#: php/ScStyleSettings.php:19
+msgid "Background-Color"
+msgstr "Hintergrund-Farbe"
+
+#: php/ScStyleSettings.php:30
+msgid "Provide your Custom-Style"
+msgstr "Geben Sie Ihren benutzerdefinierten Stil an"
+
+#: php/ScStyleSettings.php:61
+msgid "Preview Coupon"
+msgstr "Vorschau Gutschein"
+
+#: php/ScStyleSettings.php:63
+msgid "Preview Bill"
+msgstr "Vorschau Rechnung"
+
+#: php/ScStyleSettings.php:90 php/ScStyleSettings.php:113
+msgid "(available in KVoucher Premium)"
+msgstr "(verfügbar in KVoucher Premium)"
+
+#: php/ScStyleSettings.php:90 php/ScStyleSettings.php:113
+msgid " Upgrade Now!"
+msgstr "Upgrade Jetzt!"
+
+#: php/ScStyleSettings.php:127
+msgid "Upload Image"
+msgstr "Bild hochladen"
+
+#: php/ScTermsOfServiceSettings.php:9
+msgid "Terms of Service Options"
+msgstr "Nutzungsbedingungen Optionen"
+
+#: php/ScTermsOfServiceSettings.php:23
+msgid "Provide your Terms of Service"
+msgstr "Geben Sie Ihre Nutzungsbedingungen an"
+
+#: php/ScTermsOfServiceSettings.php:30
+msgid "required"
+msgstr "erforderlich"
+
+#: php/ScTermsOfServiceSettings.php:38
+msgid "your terms of service here"
+msgstr "Ihre Nutzungsbedingungen hier"
+
+#~ msgid "cUrl is not installed on the web server but is required"
+#~ msgstr "cUrl ist nicht auf dem Web-Server installiert aber erforderlich"
+
+#~ msgid "You can use HTML Code"
+#~ msgstr "Sie können HTML-Code verwenden"
+
+#~ msgid "Streetname/No."
+#~ msgstr "Straße/Nr."
+
+#~ msgid "Koboldcoupon Customers"
+#~ msgstr "KoboldCoupon Kunden"
+
+#~ msgid "Pay now"
+#~ msgstr "Jetzt bezahlen"
+
+#~ msgid "Show"
+#~ msgstr "Anzeigen"
+
+#~ msgid "Company URL"
+#~ msgstr "Firmen-URL"
